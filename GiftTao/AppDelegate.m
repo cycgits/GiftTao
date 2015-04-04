@@ -4,7 +4,7 @@
 //
 //  Created by caiyc on 15/4/4.
 //  Copyright (c) 2015年 caiyc. All rights reserved.
-// yyyyyy
+// yyyyyy的方法地方
 
 #import "AppDelegate.h"
 
