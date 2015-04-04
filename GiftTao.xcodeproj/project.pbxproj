@@ -414,6 +414,7 @@
 				0EC78B7C1ACFB37900CF153E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0EC78B7D1ACFB37900CF153E /* Build configuration list for PBXNativeTarget "GiftTaoTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +423,7 @@
 				0EC78B7F1ACFB37900CF153E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
